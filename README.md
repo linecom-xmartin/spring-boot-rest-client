@@ -1,16 +1,5 @@
-# Spring Boot Restful Web Services Example
+# Spring Boot Web Application
+This repository has the project files for a tutorial series on Spring Boot available from by website at [Spring Framework Guru](https://springframework.guru)
 
-Guide
-
-This is a part of the tutorial http://javabycode.com/spring-framework-tutorial/spring-boot-tutorial/spring-boot-restful-web-services-example.html
-
-What you'll need
-
-    JDK 1.8 or later
-    Maven 3 or later
-    spring-boot 1.4.3.RELEASE
-
-
-Run
-
-    mvn spring-boot:run
+## Checkout the full tutorial here!
+[Spring Boot - making Spring Fun again!](https://springframework.guru/spring-boot-web-application-part-1-spring-initializr/)
